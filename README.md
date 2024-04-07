@@ -1,3 +1,2 @@
 # Sam-s-Cart
-
-This is an online shopping website developed by me.
+Hi there I am SamVincent
