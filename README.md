@@ -1,2 +1,3 @@
-# Sam-s-Cart
-Hi there I am SamVincent
+# Sam-s-Cart_1
+
+I am learning software develipement
